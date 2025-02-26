@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer</h3>
 
 - 📫 How to reach me **alegomoj@gmail.com**
-- [My Portfolio](https://portfolio-ixom8nih1-alegomojs-projects.vercel.app/)
+- [My Portfolio](portfolio-alegomojs-projects.vercel.app)
 
 <h3 align="left">Stacks</h3>
 
